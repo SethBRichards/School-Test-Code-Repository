@@ -1,4 +1,4 @@
-#MATLAB Files
+# MATLAB Files
 Contains the MATLAB code I wrote when learning the language through following class tutorials with real world applications. These files 
 show I can comfortably create and edit mutiple styles of charts, perform complex math and solve ODEs, and work independently to
 achieve my goals.
