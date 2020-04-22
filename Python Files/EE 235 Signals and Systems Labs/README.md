@@ -1,3 +1,4 @@
+# EE 235 Signals and Systems Labs
 This folder contains code I created in my EE 235 signals and Systems class at UW in the lab, for lab assignments.
 
 Each numbered lab has an associated jupyter notebook file for reference, and a pdf lab write-up file for viewing purposes.
