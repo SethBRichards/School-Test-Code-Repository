@@ -1,1 +1,1 @@
-test
+In this project, I used FreeRTOS software and C code to create an Arduino project/game to "match" the sound of a given input frequency as seen on a liquid crystal display by entering in a keyed frequency with an ultrasonic sensor outputting a frequency on a speaker relative to the recorded distance and the user's input bounds. The arduino will also play a song corresponding to how close the frequency is to its match.
